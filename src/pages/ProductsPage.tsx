@@ -1,6 +1,6 @@
 import { products } from '../data/product';
 
-const ProductsPage = () => {
+export const ProductsPage = () => {
   return (
     <div className='text-center p-5'>
       <h2 className='text-x1 font-bold text-slate-600'>
